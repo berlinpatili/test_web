@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: "Berlin Patililer <br> Berlinli Hayvanseverlerin Bulusma Noktasi"
-  image: "/assets/images/banner/illustration.svg"
+  image: "/assets/images/banner/cat-1.png"
   bg_image: "/assets/images/banner/banner-bg.svg"
 
 ######################## call to action ###############################
