@@ -9,7 +9,7 @@ banner:
 call_to_action:
   enable: true
   title: "Get action!"
-  image: "/assets/images/jekyll-muscot.svg"
+  image: "/assets/images/home_1.jpg"
   description: "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
   button:
     enable: true
