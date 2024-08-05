@@ -2,6 +2,7 @@
 layout: partners
 title: "partners"
 description : "partners"
+---
 #### partners ####
 partners:
 # partner category
