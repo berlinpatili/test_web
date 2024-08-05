@@ -8,10 +8,10 @@ banner:
 ######################## call to action ###############################
 call_to_action:
   enable: true
-  title: "Get action!"
+  title: "Hemen iletisime gec!"
   image: "/assets/images/home_1.jpg"
-  description: "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+  description: "Siz de gecici yuva veya ucus gönüllüsü olabilir, Türkiye'den bir can sahiplenebilirsiniz."
   button:
     enable: true
     label: "Visit Here"
-    link: "https://themefisher.com/jekyll-themes/"
+    link: "berlinpatili.github.io"
