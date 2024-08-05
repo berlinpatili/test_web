@@ -5,4 +5,4 @@ description : "this is meta description"
 image: "/assets/images/contact.svg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+Contact with us for furhter information, any questions that you may have and any potential volunteer activities! 
