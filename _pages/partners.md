@@ -3,6 +3,8 @@ layout: partners
 title: partners
 description : partners
 ---
+
+T E S T 
 #### partners ####
 partners:
 # partner category
