@@ -4,8 +4,8 @@ menu:
   main:
     - { name: Home, url: "/" }
     - { name: Contact, url: "contact.html" }
-    - { name: Tools, url: "tools.html" }
-
+    - { name: Partners, url: "partners.html" }
+    - { name: Sources, url: "sources.html" }
   ##### Dropdown menu ######
 
   # - name: dropdown
@@ -21,8 +21,8 @@ menu:
   footer:
     - { name: Home, url: "/" }
     - { name: Contact, url: "contact.html" }
-    - { name: Tools, url: "tools.html" }
-
+    - { name: Partners, url: "tools.html" }
+    - { name: Sources, url: "sources.html" }
 ######################### Default Parameters ###########################
 
 # logo
@@ -35,7 +35,7 @@ google_analitycs_id: "" # your id
 # contact form action
 contact_form_action: "#" # contact form works with : https://formspree.io
 # copyright
-copyright: "Copyright &copy; 2024 Designed and Developed by [B.](https://github.com/berlinpatili)"
+copyright: "Copyright &copy; 2024 Designed and Developed by Berlin Patililer volunteers (https://github.com/berlinpatili)"
 
 # preloader
 preloader:
@@ -54,12 +54,16 @@ social:
 
   - name: "twitter"
     icon: "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-    link: "#"
+    link: "https://x.com/berlinpatililer"
 
-  - name: "github"
-    icon: "ti-github" # themify icon pack https://themify.me/themify-icons
-    link: "#"
+  - name: "instagram"
+    icon: "ti-instagram" # themify icon pack https://themify.me/themify-icons
+    link: "https://instagram.com/berlinpatililer"
+    
+#  - name: "github"
+#    icon: "ti-github" # themify icon pack https://themify.me/themify-icons
+#    link: "#"
 
-  - name: "linkedin"
-    icon: "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-    link: "#"
+#  - name: "linkedin"
+#    icon: "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+#    link: "#"
