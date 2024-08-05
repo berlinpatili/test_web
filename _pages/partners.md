@@ -1,7 +1,7 @@
 ---
 layout: partners
-title: "partners"
-description : "partners"
+title: partners
+description : partners
 ---
 #### partners ####
 partners:
