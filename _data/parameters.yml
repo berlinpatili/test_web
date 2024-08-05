@@ -21,7 +21,7 @@ menu:
   footer:
     - { name: Home, url: "/" }
     - { name: Contact, url: "contact.html" }
-    - { name: Partners, url: "tools.html" }
+    - { name: Partners, url: "partners.html" }
     - { name: Sources, url: "sources.html" }
 ######################### Default Parameters ###########################
 
