@@ -1,16 +1,16 @@
 ####################### banner #######################################
 banner:
   enable: true
-  title: "Berlin Patililer <br> Berlinli Hayvanseverlerin Bulusma Noktasi"
+  title: "Berlin Patililer <br> "
   image: "/assets/images/banner/cat-1.png"
   bg_image: "/assets/images/banner/banner-bg.svg"
 
 ######################## call to action ###############################
 call_to_action:
   enable: true
-  title: "Hemen iletisime gec!"
+  title: "Get Action!"
   image: "/assets/images/home_1.jpg"
-  description: "Siz de gecici yuva veya ucus gönüllüsü olabilir, Türkiye'den bir can sahiplenebilirsiniz."
+  description: "You can be a flight volunteer, host temporarily a stray animal and save a life!"
   button:
     enable: true
     label: "Visit Here"
