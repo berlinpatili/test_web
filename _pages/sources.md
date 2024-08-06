@@ -1,6 +1,6 @@
 ---
 title: Sources
-layout: collection
+layout: collections
 collection: sources
 entries_layout: grid
 ---
