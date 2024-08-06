@@ -1,4 +1,7 @@
 ---
 title: Sources
-layout: collections
+layout: collection
+permalink: /sources/
+collection: sources
+entries_layout: grid
 ---
