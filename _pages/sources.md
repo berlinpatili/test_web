@@ -1,6 +1,6 @@
 ---
 title: Sources
-layout: sources
+layout: collections
 permalink: /sources/
 collection: sources
 entries_layout: grid
