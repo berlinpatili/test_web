@@ -11,7 +11,7 @@ Adopting a cat from Turkey and bringing it to Berlin involves several key steps 
 
 Contact and choose a reputable adoption agency or animal shelter in Turkey.
 Complete the necessary adoption paperwork and pay any required fees.
-Prepare Travel Documents for the Cat
+### Prepare Travel Documents for the Cat
 
 Microchip: Ensure the cat is microchipped with an ISO-compliant chip.
 Vaccinations:
@@ -20,22 +20,23 @@ Other vaccinations such as feline distemper, rhinotracheitis, and calicivirus ar
 Veterinary Health Certificate:
 Obtain a health certificate from a licensed veterinarian in Turkey.
 The certificate should state that the cat is healthy and fit to travel.
-###EU Pet Passport
+
+EU Pet Passport
 
 Obtain an EU Pet Passport from a licensed veterinarian within the EU or an equivalent veterinary certificate from outside the EU.
-###Make Travel Arrangements
+### Make Travel Arrangements
 
-####Airline Booking:
+Airline Booking:
 Check airlines that allow pets in the cabin or as checked baggage.
 Book the flight and inform the airline that you will be traveling with a cat.
 ####Pet Carrier:
 Purchase an airline-approved pet carrier.
 Ensure the carrier is comfortable and meets the size requirements of the airline.
-###Pre-Travel Preparations
+### Pre-Travel Preparations
 
-####Health Check: Have the cat examined by a vet a few days before traveling to ensure it is still fit to travel.
-####Feeding and Hydration: Feed the cat a light meal a few hours before the journey and ensure it is well-hydrated.
-####Comfort Items: Place a familiar blanket or toy in the carrier to comfort the cat during the journey.
+Health Check: Have the cat examined by a vet a few days before traveling to ensure it is still fit to travel.
+Feeding and Hydration: Feed the cat a light meal a few hours before the journey and ensure it is well-hydrated.
+Comfort Items: Place a familiar blanket or toy in the carrier to comfort the cat during the journey.
 ###Travel Day
 
 Arrival at the Airport: Arrive at the airport early to allow time for the pet check-in process.
@@ -48,7 +49,7 @@ Post-Arrival Care
 
 Veterinary Visit: Schedule a visit to a local vet in Berlin to ensure the cat’s health and update any local medical records.
 Insurance and Registration: Consider obtaining pet insurance and registering your cat with a local pet registry if required.
-Summary
+### Summary
 Adopt the Cat in Turkey
 
 Contact a reputable shelter.
