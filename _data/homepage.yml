@@ -2,8 +2,8 @@
 banner:
   enable: true
   title: "Berlin Patililer"
-  image: "/assets/images/banner/cat-1.png"
-  bg_image: "/assets/images/banner/banner-bg.svg"
+  #image: "/assets/images/banner/cat-1.png"
+  bg_image: "/assets/images/banner/5487041.eps"
 
 ######################## call to action ###############################
 call_to_action:
