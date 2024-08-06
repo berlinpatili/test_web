@@ -1,4 +1,5 @@
 ---
+layout: post 
 title:  "How to adopt a cat from Turkey?"
 image : "/assets/images/post/post-2.jpg"
 tags: [Cat, Travel, Flight, Adopt]
