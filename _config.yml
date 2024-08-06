@@ -24,14 +24,6 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 6
-paginate_path: "/page/:num"
-
-# include
-include:
-  - _pages
-  - _authors
-  
 collections:
   sources:
     output: true
@@ -40,6 +32,15 @@ collections:
   stories:
     output: true
     permalink: /:collection/:path/
+    
+paginate: 6
+paginate_path: "/page/:num"
+
+# include
+include:
+  - _pages
+  - _authors
+  
 
 # Front Matter Defaults
 defaults:
