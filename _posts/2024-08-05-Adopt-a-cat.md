@@ -1,6 +1,6 @@
 ---
 title:  "Procedure"
-image : "/assets/images/post/post-1.jpg"
+image : "/assets/images/post/post-2.jpg"
 author: "ChatGPT"
 date: 2024-08-06 12:48:58 +0600
 description : "This is meta description"
