@@ -6,8 +6,8 @@ tags: [Cat, Travel, Flight, Adopt]
 
 Adopting a cat from Turkey and bringing it to Berlin involves several key steps to ensure the process is smooth and complies with all regulations. Here are the steps you need to follow:
 
-##Step-by-Step Guide
-###Adopt the Cat
+## Step-by-Step Guide
+### Adopt the Cat
 
 Contact and choose a reputable adoption agency or animal shelter in Turkey.
 Complete the necessary adoption paperwork and pay any required fees.
