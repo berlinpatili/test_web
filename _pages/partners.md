@@ -9,7 +9,7 @@ partners:
   partner:
   # partner loop in partner category
   - name: PetsinTurkey
-    image: "/assets/images/partners/pit.png"
+    image: "/assets/images/partners/pit.jpg"
     link: https://www.petsinturkey.org/
   # partner loop in partner category
   - name: Peta
