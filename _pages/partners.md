@@ -1,10 +1,7 @@
 ---
 layout: partners
 title: partners
-description : partners
----
 
-T E S T 
 #### partners ####
 partners:
 # partner category
@@ -37,7 +34,7 @@ partners:
 
 
 #partner category
-- partners: Non-profit organizations from Berlin/Germany 
+- title: Non-profit organizations from Berlin/Germany 
   partner:
   # partner loop in partner category
   - name: Kent, Doga, Hayvan Calisanlari Dernegi
