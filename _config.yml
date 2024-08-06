@@ -31,7 +31,43 @@ paginate_path: "/page/:num"
 include:
   - _pages
   - _authors
+  
+collections:
+  sources:
+    output: true
+    permalink: /:collection/:path/
 
+  stories:
+    output: true
+    permalink: /:collection/:path/
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Source defaults
+  - scope:
+      path: "_sources"
+      type: sources
+    values:
+      layout: post
+      comments: true
+      share: true
+
+        # Story defaults
+  - scope:
+      path: "_stories"
+      type: stories
+    values:
+      layout: post
+      comments: true
+      share: true
 # Pages Path
 defaults:
   - scope:
