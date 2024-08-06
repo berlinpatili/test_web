@@ -5,7 +5,7 @@ title: partners
 #### partners ####
 partners:
 # partner category
-- title: Non-Profit Organizations from Turkey
+- title: International Non-Profil Organizations
   partner:
   # partner loop in partner category
   - name: PetsinTurkey
@@ -17,7 +17,7 @@ partners:
     link: https://www.peta.org/international/
   # partner loop in partner category
   - name: VIER PFOTEN
-    image: "/assets/images/partners/VIER-PFOTEN_30Jahre_logo_web.svg"
+    image: "/assets/images/partners/VP.png"
     link: https://www.vier-pfoten.de/
   # partner loop in partner category
   - name: Tierhaim Berlin
@@ -34,7 +34,7 @@ partners:
 
 
 #partner category
-- title: Non-profit organizations from Berlin/Germany 
+- title: Non-Profit Organizations from Turkey
   partner:
   # partner loop in partner category
   - name: Kent, Doga, Hayvan Calisanlari Dernegi
