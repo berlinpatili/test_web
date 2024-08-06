@@ -6,6 +6,8 @@ menu:
     - { name: Contact, url: "contact.html" }
     - { name: Partners, url: "partners.html" }
     - { name: Sources, url: "sources.html" }
+    - { name: Stories, url: "stories.html" }
+
   ##### Dropdown menu ######
 
   # - name: dropdown
@@ -23,6 +25,7 @@ menu:
     - { name: Contact, url: "contact.html" }
     - { name: Partners, url: "partners.html" }
     - { name: Sources, url: "sources.html" }
+    - { name: Stories, url: "stories.html" }
 ######################### Default Parameters ###########################
 
 # logo
