@@ -29,7 +29,7 @@ menu:
 ######################### Default Parameters ###########################
 
 # logo
-logo: "/assets/images/logo.svg"
+logo: "/assets/images/home_1.jpg"
 # meta data
 author: "Chat-GPT"
 description: "This is meta description"
