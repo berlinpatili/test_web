@@ -28,7 +28,6 @@ menu:
     - { name: Stories, url: "stories" }
 ######################### Default Parameters ###########################
 
-header_logo: "/assets/images/patililerlogo.svg"
 # logo
 logo: "/assets/images/logo.svg"
 # meta data
