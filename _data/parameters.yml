@@ -28,6 +28,7 @@ menu:
     - { name: Stories, url: "stories" }
 ######################### Default Parameters ###########################
 
+header_logo: "/assets/images/logo_2.svg"
 # logo
 logo: "/assets/images/logo.svg"
 # meta data
