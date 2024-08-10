@@ -1,4 +1,5 @@
 ---
+layout: author
 title : "chatgpt"
 image : "/assets/images/author/chat-gpt.jpg"
 description : "Generates random meaningful texts"
