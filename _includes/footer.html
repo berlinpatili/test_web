@@ -12,8 +12,8 @@
           {% endfor %}
         </ul>
       </div> -->
-      <div class="col-lg-4 text-center mb-4 mb-lg-0">
-      <ul class="list-unstyled mb-0">
+      <div class="col-lg-4 mb-4 mb-lg-0">
+    <ul class="list-unstyled mb-0">
         {% for footer in site.data.parameters.menu.footer %}
         <li class="mb-2">
             <a class="text-dark d-block p-2" href="{{ footer.url | relative_url }}">
@@ -21,8 +21,9 @@
             </a>
         </li>
         {% endfor %}
-      </ul>
-    </div>
+    </ul>
+</div>
+
 
       <div class="col-lg-4 text-lg-right text-center mb-4 mb-lg-0">
         <ul class="list-inline social-icon mb-0">
